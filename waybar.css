@@ -3,6 +3,6 @@
 
 /* Optional: Define accent colors for module states (e.g., volume, battery, workspaces) */
 
-@define-color primary_red #8C1F1D;
+@define-color primary #8C1F1D;
 @define-color accent_glow #F7E1C7;
 @define-color utility_blue #5298C4;

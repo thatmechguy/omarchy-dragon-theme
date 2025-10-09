@@ -1,53 +1,5 @@
 {
-  "name": "Dragon's Shadow",
-  "colors": {
-    // --- Basic Colors ---
-    "focusBorder": "#FF3D5A",
-    "foreground": "#EBE5D6",
-    "widget.border": "#FF3D5A",
-    "errorForeground": "#FF3D5A",
-    
-    // --- Editor Colors ---
-    "editor.background": "#180D15",
-    "editor.foreground": "#EBE5D6",
-    "editorLineNumber.foreground": "#3A1A22",
-    "editorCursor.foreground": "#F7E1C7",
-    "editorWhitespace.foreground": "#3A1A22",
-    "editorGroupHeader.tabsBackground": "#251218",
-    "editorRuler.foreground": "#3A1A22",
-    
-    // --- Selection and Highlight ---
-    "editor.selectionBackground": "#3A1A22",
-    "editor.selectionHighlightBackground": "#3A1A2280",
-    "editor.wordHighlightStrongBackground": "#C479A980",
-
-    // --- Workbench Colors ---
-    "sideBar.background": "#251218",
-    "sideBar.foreground": "#EBE5D6",
-    "activityBar.background": "#180D15",
-    "activityBar.foreground": "#EBE5D6",
-    "activityBar.activeBorder": "#FF3D5A",
-    "statusBar.background": "#251218",
-    "statusBar.foreground": "#EBE5D6",
-    
-    // --- Terminal Colors (Matching Alacritty/Kitty) ---
-    "terminal.background": "#180D15",
-    "terminal.foreground": "#EBE5D6",
-    "terminal.ansiBlack": "#251218",
-    "terminal.ansiRed": "#FF3D5A",
-    "terminal.ansiGreen": "#78A682",
-    "terminal.ansiYellow": "#F7E1C7",
-    "terminal.ansiBlue": "#5298C4",
-    "terminal.ansiMagenta": "#C479A9",
-    "terminal.ansiCyan": "#7ABAA9",
-    "terminal.ansiWhite": "#EBE5D6",
-    "terminal.ansiBrightBlack": "#3A1A22",
-    "terminal.ansiBrightRed": "#FF3D5A",
-    "terminal.ansiBrightGreen": "#93C999",
-    "terminal.ansiBrightYellow": "#FFF6EA",
-    "terminal.ansiBrightBlue": "#7AAFD0",
-    "terminal.ansiBrightMagenta": "#D995BB",
-    "terminal.ansiBrightCyan": "#95CACA",
-    "terminal.ansiBrightWhite": "#FFFFFF"
-  }
+  "name": "Ayu Dark Bordered",
+  "extension": "teabyii.ayu"
 }
+
